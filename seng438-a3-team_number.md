@@ -2,11 +2,11 @@
 
 **Lab. Report #3 – Code Coverage, Adequacy Criteria and Test Case Correlation**
 
-| Group \#:      |     |
+| Group \#:      |  12 |
 | -------------- | --- |
-| Student Names: |     |
-|                |     |
-|                |     |
+| Student Names: | UCID|
+|Muhammad Arij Ashar      |30114920     |
+|       Gaumit Kauts         |  12345678   |
 |                |     |
 
 (Note that some labs require individual reports while others require one report
